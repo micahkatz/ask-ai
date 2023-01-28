@@ -1,0 +1,19 @@
+{
+  "name": "ask-ai",
+  "version": "1.0.0",
+  "description": "A shortcut for using the openai cli",
+  "main": "ask-ai",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "chatgpt",
+    "openai",
+    "zsh",
+    "shell",
+    "script"
+  ],
+  "author": "Micah Katz",
+  "license": "ISC"
+}

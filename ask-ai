@@ -1,0 +1,8 @@
+#!/bin/zsh
+
+if [ -z "$1" ]
+then
+    echo "Usage: ai <your input to openai>"
+else
+    echo "$1" | openai complete -
+fi
